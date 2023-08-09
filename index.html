@@ -12,13 +12,16 @@
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene embedded arjs>
     <a-assets>
+          <a-assets-item id="cat" src="assets/images/cat/cat.gltf"></a-assets-item>
           <a-asset-item id="gingerbread" src="/assets/images/gingerbread_man_from_shrek/scene.gltf"></a-asset-item>
           <a-asset-item id="donkey" src="/assets/images/mobile_-_pocket_shrek_-_donkey/scene.gltf"></a-asset-item>
           <a-asset-item id="flower" src="/assets/images/flower_test/scene.gltf"></a-asset-item>
     </a-assets>
     
-
     
+    
+
+    <a-gltf-model src="#cat" position="0 0 -10" rotate="0 98 0" scale="7 5 7 "></a-gltf-model>
     <a-gltf-model src="#donkey" position="-2 2.2 -5" rotation="0 180 0" scale="0.0005 0.0005 0.0005"></a-gltf-model>
     <a-gltf-model src="#gingerbread" position="2 0.5 0" rotation="-20 -30 0" scale="0.02 0.02 0.02"></a-gltf-model>
     <a-gltf-model src="#flower" position="0 0.5 0" rotation="0 20 0" scale="0.02 0.02 0.02"></a-gltf-model>
