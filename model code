@@ -1,0 +1,5 @@
+<!-- <a-assets>
+          <a-asset-item id="gingerbread" src="/assets/images/gingerbread_man_from_shrek/scene.gltf"></a-asset-item>
+        </a-assets> -->
+    <!-- <a-entity gltf-model="#cityModel"></a-entity> -->
+    <!-- <a-gltf-model src="#gingerbread" position="70 -120 -100" rotation="-20 -30 0"></a-gltf-model> -->
