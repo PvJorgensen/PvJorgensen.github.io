@@ -1,0 +1,11 @@
+Model Information:
+* title:	mobile_-_pocket_shrek_-_donkey
+* source:	https://sketchfab.com/3d-models/mobile---pocket-shrek---donkey-59c880ef651d4c87bcc62b123bcb2e56
+* author:	nathanmiller5wtue (https://sketchfab.com/nathanmiller5wtue)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mobile_-_pocket_shrek_-_donkey" (https://sketchfab.com/3d-models/mobile---pocket-shrek---donkey-59c880ef651d4c87bcc62b123bcb2e56) by nathanmiller5wtue (https://sketchfab.com/nathanmiller5wtue) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
